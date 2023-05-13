@@ -22,7 +22,7 @@ jobs:
       - name: Lint
         run: npm run lint:js
         
-      - name: Builв
+      - name: Build
         run: npm run build
 
       - name: Deploy
